@@ -1,3 +1,5 @@
-names=['小王八','小乌龟','小螃蟹']
-for name in names:
-   print('Hello',name)
+L=['小孟莉','孟莉','孟小莉']
+n=0
+while n<len(L):
+    print('hello,%s!'%L[n])
+n=n+1
